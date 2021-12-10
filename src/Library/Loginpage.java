@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 import java.sql.*;
 /**
  *
- * @author Zakaria AIT ERRAMI
+ * @author wafaaBajjouk
  */
 public class Loginpage extends javax.swing.JFrame {
 
