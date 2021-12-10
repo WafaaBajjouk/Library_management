@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Zakaria AIT ERRAMI
+ * @author Wafaa Bajjouk
  */
 public class Ad_space extends javax.swing.JFrame {
 
