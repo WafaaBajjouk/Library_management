@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Zakaria AIT ERRAMI
+ * @author BAJJOUK Wafaa
  */
 public class Adherent extends Person{
     String email, tele,username,password;
