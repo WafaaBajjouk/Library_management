@@ -14,7 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Zakaria AIT ERRAMI
+ * @author Bajjouk wafaa
  */
 public class Main extends javax.swing.JFrame {
     /**
